@@ -1,0 +1,28 @@
+{
+  "Product": [
+    {
+      "id": 1,
+      "title": "Food Mustang",
+      "imageUrl": "https://res.cloudinary.com/dnfahcxo3/image/upload/v1753177106/80b23d3fdbb319ac88b1cb8dca6b51de-removebg-preview_pek3ur.png",
+      "Price": 100
+    },
+    {
+      "id": 1,
+      "title": "Food Mustang",
+      "imageUrl": "https://res.cloudinary.com/dnfahcxo3/image/upload/v1753177106/80b23d3fdbb319ac88b1cb8dca6b51de-removebg-preview_pek3ur.png",
+      "Price": 100
+    },
+    {
+      "id": 1,
+      "title": "Food Mustang",
+      "imageUrl": "https://res.cloudinary.com/dnfahcxo3/image/upload/v1753177106/80b23d3fdbb319ac88b1cb8dca6b51de-removebg-preview_pek3ur.png",
+      "Price": 100
+    },
+    {
+      "id": 1,
+      "title": "Food Mustang",
+      "imageUrl": "https://res.cloudinary.com/dnfahcxo3/image/upload/v1753177106/80b23d3fdbb319ac88b1cb8dca6b51de-removebg-preview_pek3ur.png",
+      "Price": 100
+    }
+  ]
+}
