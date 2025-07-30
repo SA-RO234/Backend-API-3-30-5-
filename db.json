@@ -4,25 +4,25 @@
       "id": 1,
       "title": "Food Mustang",
       "imageUrl": "https://res.cloudinary.com/dnfahcxo3/image/upload/v1753177106/80b23d3fdbb319ac88b1cb8dca6b51de-removebg-preview_pek3ur.png",
-      "Price": 100
+      "Price": 150
     },
     {
-      "id": 1,
-      "title": "Food Mustang",
-      "imageUrl": "https://res.cloudinary.com/dnfahcxo3/image/upload/v1753177106/80b23d3fdbb319ac88b1cb8dca6b51de-removebg-preview_pek3ur.png",
-      "Price": 100
+      "id": 2,
+      "title": "Tesla Cybertruck",
+      "imageUrl": "https://res.cloudinary.com/dnfahcxo3/image/upload/v1753869262/d97d2911b239a517b68725972df1b115-removebg-preview_eormbr.png",
+      "Price": 200
     },
     {
-      "id": 1,
-      "title": "Food Mustang",
-      "imageUrl": "https://res.cloudinary.com/dnfahcxo3/image/upload/v1753177106/80b23d3fdbb319ac88b1cb8dca6b51de-removebg-preview_pek3ur.png",
-      "Price": 100
+      "id": 3,
+      "title": "Mercedes-AMG",
+      "imageUrl": "https://res.cloudinary.com/dnfahcxo3/image/upload/v1753869442/bb284a408a52d2770daedd4522ebe858-removebg-preview_iibisg.png",
+      "Price": 550
     },
     {
-      "id": 1,
-      "title": "Food Mustang",
-      "imageUrl": "https://res.cloudinary.com/dnfahcxo3/image/upload/v1753177106/80b23d3fdbb319ac88b1cb8dca6b51de-removebg-preview_pek3ur.png",
-      "Price": 100
+      "id": 4,
+      "title": "Porsche 911 GT3",
+      "imageUrl": "https://res.cloudinary.com/dnfahcxo3/image/upload/v1753869677/5c2cd0e6956747d0b77d3444cd1c1d20-removebg-preview_sgebrb.png",
+      "Price": 450
     }
   ]
 }
